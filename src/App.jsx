@@ -1,10 +1,9 @@
 import React from 'react'
+import Modal from './Modal'
 
 const App = () => {
  return (
-  <>
-  Popup
-  </>
+    <Modal />
  )
 }
  
